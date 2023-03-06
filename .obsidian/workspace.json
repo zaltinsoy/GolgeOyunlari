@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herrikorak.md",
+                "file": "Gölge Oyunları/GÖ Seans 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c2b8466a85cd7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gölge Oyunları/GÖ Seans 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herrikorak.md",
+                "file": "Gölge Oyunları/GÖ Seans 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herrikorak.md",
+                "file": "Gölge Oyunları/GÖ Seans 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herrikorak.md"
+                "file": "Gölge Oyunları/GÖ Seans 6.md"
               }
             }
           }
@@ -146,13 +159,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0025ec2dc181a6fb",
+  "active": "8c2b8466a85cd7c8",
   "lastOpenFiles": [
+    "Gölge Oyunları/GÖ Seans 10.md",
+    "Oyuncu Karakterleri/Davros.md",
+    "Mekanlar",
+    "NPC",
+    "Gölge Oyunları/GÖ Seans 9.md",
+    "NPC/Horcipo.md",
+    "Gölge Oyunları/GÖ Seans 8.md",
+    "NPC/Severus Antonidas.md",
+    "Oyuncu Karakterleri/Kenos.md",
+    "Mekanlar/Herrikorak.md",
     "GolgeOyunlari",
     "Karakterler",
     "Gölge Oyunları/GÖ Seans 6.md",
     "Karakterler/Crow.md",
-    "Gölge Oyunları",
-    "Herrikorak.md"
+    "Gölge Oyunları"
   ]
 }
